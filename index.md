@@ -1,2 +1,2 @@
-# ymy-gitrepo.github.io
+# Yazılımcıların Mola Yeri
 Organizasyonun web sayfasının bulunduğu repo
