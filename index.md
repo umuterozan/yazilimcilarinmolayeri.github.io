@@ -1,2 +1,1 @@
-# Yazılımcıların Mola Yeri
-Organizasyonun web sayfasının bulunduğu repo
+Discord sunucusuna katılmak için davet bağlantısı: [https://discord.gg/KazHgb2](https://discord.gg/KazHgb2)
