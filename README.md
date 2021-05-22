@@ -4,7 +4,7 @@
 		<br/>
     	<img src="https://i.imgur.com/Amvinfs.png" height="256" width="256">
 		<h1>Yazılımcıların Mola Yeri</h1>
-		<h3>Programlama severleri bir araya toplayan, kar amacı gütmeyen bir topluluk.</h3>
+		<h3>Programlama severleri bir araya toplayan ve kar amacı gütmeyen bir topluluk.<br/>Hehey, git ve yazılımcılarla sosyalleş.</h3>
 		<a href="https://discord.gg/KazHgb2"><img src="https://img.shields.io/discord/418887354699350028?label=discord"></a>
 		<a href="https://t.me/ymyoht"><img src="https://img.shields.io/badge/telegram-ymyoht-informational"></a>
 		<a href="https://reddit.com/r/ymyoh"><img src="https://img.shields.io/badge/reddit-ymyoh-red"></a>
